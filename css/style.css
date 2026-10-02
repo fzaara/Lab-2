@@ -47,6 +47,7 @@ body {
     flex-direction: column; /* Stack layout grid containers vertically by default */
     gap: 20px;
     padding: 20px 0;
+    border: #ccc 20px;
 }
 
 .card {
